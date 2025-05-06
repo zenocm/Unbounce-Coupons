@@ -190,6 +190,10 @@ Built-in analytics provide insights into page performance, conversion rates, and
 * Custom script embedding for third-party analytics
 * Integration with platforms like Hotjar for behavior tracking
 
+<a href="https://afftrend.com/unbounce"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
+
 ---
 
 ## How to Use Unbounce
@@ -220,6 +224,10 @@ Built-in analytics provide insights into page performance, conversion rates, and
 | **Concierge**  | Custom        | Custom                 | Dedicated support, advanced integrations, higher traffic limits | 
 
 *Note: Prices are in USD. Annual billing offers a 25% discount.*
+
+<a href="https://afftrend.com/unbounce"> 
+<img src="https://drive.google.com/uc?export=view&id=1EBm2zLvVoVbeyhBsLIZc3t-WxeyeYAOC" alt="Get FREE Access"> 
+</a>
 
 ---
 
@@ -350,6 +358,10 @@ Businesses that want an all-in-one marketing suite with landing page capabilitie
 
 * Higher pricing compared to some competitors
 * Requires credit card for free trial sign-up
+
+<a href="https://afftrend.com/unbounce"> 
+<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
+</a>
 
 ---
 
