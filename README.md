@@ -10,7 +10,7 @@ So if you’re tired of guessing what works and want a smarter, faster way to im
 
 ---
 
-## Product Overview
+## Unbounce Highlights
 
 | Feature                  | Details                                                             |   |
 | ------------------------ | ------------------------------------------------------------------- | - |
